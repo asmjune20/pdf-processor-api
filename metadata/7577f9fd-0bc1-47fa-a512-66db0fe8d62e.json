@@ -1,0 +1,14 @@
+{
+  "file_id": "7577f9fd-0bc1-47fa-a512-66db0fe8d62e",
+  "original_filename": "Article-MasteringIronCondors-IronButterflies.pdf",
+  "stored_filename": "7577f9fd-0bc1-47fa-a512-66db0fe8d62e.pdf",
+  "file_path": "uploads/7577f9fd-0bc1-47fa-a512-66db0fe8d62e.pdf",
+  "file_size": 1619785,
+  "upload_time": "2025-06-17T21:05:21.424108",
+  "status": "failed",
+  "processed": false,
+  "processing_results": null,
+  "processing_started": "2025-06-17T21:07:57.561998",
+  "processing_error": "RapidOCR is not installed. Please install it via `pip install rapidocr_onnxruntime` to use this OCR engine. Alternatively, Docling has support for other OCR engines. See the documentation.",
+  "processing_failed": "2025-06-17T21:07:57.629445"
+}

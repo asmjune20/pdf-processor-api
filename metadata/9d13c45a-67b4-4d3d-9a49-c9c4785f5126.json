@@ -1,0 +1,14 @@
+{
+  "file_id": "9d13c45a-67b4-4d3d-9a49-c9c4785f5126",
+  "original_filename": "Article-MasteringIronCondors-IronButterflies.pdf",
+  "stored_filename": "9d13c45a-67b4-4d3d-9a49-c9c4785f5126.pdf",
+  "file_path": "uploads/9d13c45a-67b4-4d3d-9a49-c9c4785f5126.pdf",
+  "file_size": 1619785,
+  "upload_time": "2025-06-17T21:19:58.509444",
+  "status": "failed",
+  "processed": false,
+  "processing_results": null,
+  "processing_started": "2025-06-17T21:25:29.444469",
+  "processing_error": "Unsupported OCR engine: OCRMac",
+  "processing_failed": "2025-06-17T21:25:29.444881"
+}

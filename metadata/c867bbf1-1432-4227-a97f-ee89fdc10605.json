@@ -1,0 +1,24 @@
+{
+  "file_id": "c867bbf1-1432-4227-a97f-ee89fdc10605",
+  "original_filename": "Article-MasteringIronCondors-IronButterflies.pdf",
+  "stored_filename": "c867bbf1-1432-4227-a97f-ee89fdc10605.pdf",
+  "file_path": "uploads/c867bbf1-1432-4227-a97f-ee89fdc10605.pdf",
+  "file_size": 1619785,
+  "upload_time": "2025-06-17T21:36:21.199344",
+  "status": "completed",
+  "processed": true,
+  "processing_results": {
+    "tables_found": 3,
+    "text_file": "results/c867bbf1-1432-4227-a97f-ee89fdc10605/c867bbf1-1432-4227-a97f-ee89fdc10605_full_text_ocrmac_force_true.md",
+    "results_directory": "results/c867bbf1-1432-4227-a97f-ee89fdc10605"
+  },
+  "processing_started": "2025-06-17T21:36:45.474337",
+  "processing_completed": "2025-06-17T21:37:09.485727",
+  "processing_time": 24.01,
+  "processing_settings": {
+    "extract_tables": true,
+    "use_ocr": true,
+    "ocr_engine": "ocrmac",
+    "force_full_page_ocr": true
+  }
+}

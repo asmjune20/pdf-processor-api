@@ -1,0 +1,11 @@
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+aiofiles>=23.0.0
+docling>=2.34.0
+docling-core>=2.32.0
+pandas>=2.0.0
+rapidocr_onnxruntime>=1.4.0
+ocrmac>=1.0.0
+easyocr>=1.7.0
+pathlib2>=2.3.0

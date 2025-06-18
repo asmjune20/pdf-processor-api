@@ -1,0 +1,12 @@
+0,1
+Market outlook,Neutral and Implied Volatility is expected to decrease
+Position net debit or credit,Credit (premium collected)
+Margin required,"The difference between one set of short and long strikes, minus the premium collected"
+Number of legs,"Four - one lower strike long put, one higher strike short put, one higher strike short call, and one higher strike long call with the same expiration date"
+Location of strikes,Iron Condor - all strikes are out of the money Iron Butterfly - the short put and call have the same at the money
+Maximum profit,The net premium collected
+Profits from,"The options expiring with the underlying between the two breakeven points, or from time decay, or volatility dropping"
+Maximum loss,The difference between the strikes minus the premium collected. This occurs if the underlying price rises above the long call strike or drops below the long put strike.
+Breakeven,Two: the short put strike minus the premium received and the short call strike plus the premium received.
+Risk from,"The underlying price rising to or above the strike of the long call, dropping to or below the short put strike, or assignment on the short options before expiration. The use of margin is required. Review the Margin Disclosure Statement at www.TradeStation.com/DisclosureMargin"
+Options level required,Level 3 - Click here for additional information
