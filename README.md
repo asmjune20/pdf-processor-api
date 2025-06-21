@@ -110,14 +110,6 @@ You can browse the `uploads/` folder directly or use the download endpoint to ge
 | `/process-pdf/` | POST | Process PDF with options |
 | `/download-results/{file_id}` | GET | Download results as ZIP |
 
-## 🤖 OCR Engine Comparison
-
-| Engine | Speed | Quality | Requirements | Best For |
-|--------|-------|---------|--------------|----------|
-| **rapidocr** | ⚡⚡⚡ | Good | None | General use, fastest |
-| **tesseract** | ⚡⚡ | Excellent | Tesseract install | High accuracy |
-| **easyocr** | ⚡ | Good | GPU optional | Multiple languages |
-| **ocrmac** | ⚡⚡ | Excellent | macOS only | Mac users, high quality |
 
 ## ⚙️ Processing Options
 
