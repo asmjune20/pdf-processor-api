@@ -1,9 +1,0 @@
-,ADBE Iron Condor
-Trade cost /margin,$357 (Difference between strikes - premium X 100)
-Maximum loss,$357
-Breakeven price down,$458.57 (short 460 put - 1.43 premium)
-Breakeven price up,$506.43 (short 505 call + 1.43 premium)
-Maximum profit,$143
-Rate of return at expiration,40.1% if ADBE is between 460 and 505
-Drawbacks/Risks,1. Options expiring with the underlying below the short put or above the short call 2. Assignment risk on the short options 3. Maximum risk is greater than maximum reward
-Features,1. Limited max risk 2. Can profit with little or no price movement 3. High probability of profit with a wide range

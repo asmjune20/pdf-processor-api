@@ -1,9 +1,0 @@
-,BOX Iron Butterfly
-Trade cost /margin,$70.00 (Difference between strikes - premium X 100)
-Maximum loss,$70.00
-Breakeven price down,$25.70 (short 27 put - 1.30 premium)
-Breakeven price up,$28.30 (short 27 call + 1.30 premium)
-Maximum profit,$130
-Rate of return at expiration,185.7% if BOX is at $27
-Drawbacks/Risks,"1. Options expiring with the underlying below the long put or above the long call 2. Assignment risk on the short options 3. If Box is above or below $27 at expiration, the realized profit will be less than the maximum 4. May need to be closed before expiration to avoid assignment"
-Features,1. Limited maximum risk 2. The premium collected is generally higher than a similar iron condor 3. Has a narrower structure than an iron condor with less risk 4. Can profit from time and volatility decay with little or no price movement
